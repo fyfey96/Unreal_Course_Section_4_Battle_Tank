@@ -1,0 +1,16 @@
+Concept -
+To Develop a battle tank game head to head. 
+Terrain for tactical 
+
+Rules -
+Stay Within Play Area
+Both players start with finite ammo and health
+Each direct hit effects health.
+Last Player Standing wins.
+
+
+Requirements -
+Source SFX  -  Explosions, Tank Movement and firing.
+Static Meshes - Simple tank, comprising of tracks, body, turret and barrel.
+Textures - Add textures for visual flare
+Music - Background to create tension.
